@@ -1,0 +1,8 @@
+c:\users\bismarck\documents\visual studio 2015\Projects\DEPP-CSharp\DEPP-CSharp\bin\Debug\DEPP-CSharp.exe.config
+c:\users\bismarck\documents\visual studio 2015\Projects\DEPP-CSharp\DEPP-CSharp\bin\Debug\DEPP-CSharp.exe
+c:\users\bismarck\documents\visual studio 2015\Projects\DEPP-CSharp\DEPP-CSharp\bin\Debug\DEPP-CSharp.pdb
+c:\users\bismarck\documents\visual studio 2015\Projects\DEPP-CSharp\DEPP-CSharp\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+c:\users\bismarck\documents\visual studio 2015\Projects\DEPP-CSharp\DEPP-CSharp\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+c:\users\bismarck\documents\visual studio 2015\Projects\DEPP-CSharp\DEPP-CSharp\obj\Debug\DEPP-CSharp.csprojResolveAssemblyReference.cache
+c:\users\bismarck\documents\visual studio 2015\Projects\DEPP-CSharp\DEPP-CSharp\obj\Debug\DEPP-CSharp.exe
+c:\users\bismarck\documents\visual studio 2015\Projects\DEPP-CSharp\DEPP-CSharp\obj\Debug\DEPP-CSharp.pdb
